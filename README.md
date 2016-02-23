@@ -1,4 +1,3 @@
-# TestRepo
+# Test Repository for Github Integration
 
-just a test
-Another test.
+This is an empty repository for testing purposes.
